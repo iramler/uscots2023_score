@@ -105,10 +105,16 @@ Time: 60
 
 ##	Joining the Network as a contributor
 
-- Reviewer
 - Content Creator
+    - Flowchart?
+    - handbook?
+- Reviewer
+    - handbook?
 - Involving students
-    - SLU approach (Stat 289 and our GitHub repo/workflow)
+    - St. Lawrence University approach
+        - 0.25 unit (1 credit) Course (approximately 2 - 4 students per faculty member)
+        - Use [GitHub](https://github.com/iramler/slu_score){target="_blank"} to store "in progress" modules until they are ready to be submitted to the SCORE Data repo.
+        - Summer research students to polish existing and create new content.
 
 <!-- 
 Time: 70
