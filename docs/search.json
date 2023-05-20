@@ -4,13 +4,41 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This site contains the outline and links for the Building a SCORE Module to Teach with Sports Data breakout session at 2023 USCOTS."
+  },
+  {
+    "objectID": "about.html#session-details",
+    "href": "about.html#session-details",
+    "title": "About",
+    "section": "Session Details",
+    "text": "Session Details\nFriday 9:30 – 10:45 AM"
+  },
+  {
+    "objectID": "about.html#session-description",
+    "href": "about.html#session-description",
+    "title": "About",
+    "section": "Session Description",
+    "text": "Session Description\nSCORE with Data is an NSF-funded project that seeks to build a national network to develop and share high quality materials for using Sports Content for Outreach, Research, and Education in statistics and data science. The SCORE network includes both statistics/data science educators, data professionals from sports teams and sports personalities to guide and review the module development process. A key component of this endeavor is to create a repository of teaching modules that connect interesting sports-related questions with appropriate datasets for classroom use. This includes finding appropriate data and guiding students to produce analyses and results that can be communicated to help participants in the sport answer questions of interest. The materials created for each module include students being asked to communicate the analyses that they are undertaking.\nThis session will introduce participants to the network, engage them with the repository of education modules, review the process for module creation, and discuss how to further engage with and become part of the network. Time permitting, attendees, in small groups, will brainstorm about possible data and questions for further development into a module. As such, it would be helpful for participants to have laptops with internet access for finding data, doing initial analyses, and accessing existing online SCORE modules. Further, interest/experience in one or more sports (as a fan or participant) would be helpful but is not necessary."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "uscots2023_score",
+    "title": "USCOTS 2023 SCORE Breakout Session",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Getting set up, background for the attendees, etc\n\n\n\n\n\nFunding Source\nOverall goal\nAims\nStructure (Modules/Content)\nTeam: Flowchart\nGo to webpage"
+  },
+  {
+    "objectID": "index.html#users",
+    "href": "index.html#users",
+    "title": "USCOTS 2023 SCORE Breakout Session",
+    "section": "Users",
+    "text": "Users\n\n10 - Overview of Current SCORE Modules and GitHub repo\n\nGitHub Data Repo\nISLE?\nScore site?\n\n\n\n15 - Example SCORE modules\n\nWork on Ironman module\nWatch video together\nBreak into small groups and work through handout\nA few things for them to consider while working on it\nDo a second one? Break into groups based on interest\nStolen Bases (ISLE)\nMarathon (ISLE)\nLacrosse: PLL vs NLL\nLoL\nSoccer heights\nGolf Putts\nsoftball"
+  },
+  {
+    "objectID": "index.html#discussion",
+    "href": "index.html#discussion",
+    "title": "USCOTS 2023 SCORE Breakout Session",
+    "section": "Discussion",
+    "text": "Discussion\n\n45 - Group discussion about modules;\n\nbrainstorm possible uses and future module topics  leads in to creator/reviewer\n\n\n\n60 - Briefly talk about becoming a creator/reviewer\n\nSLU approach (Stat 289 and our GitHub repo/workflow)\n\n\n\n70 - Discussion & Next Steps\n\nSignup sheet to be on email list for network\nCheckbox for interest in being a reviewer"
   }
 ]

@@ -1,11 +1,55 @@
 ---
-title: "uscots2023_score"
+title: "USCOTS 2023 SCORE Breakout Session"
 ---
 
-This is a Quarto website.
+## Overview
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+###	00 -  Welcome and Introductions
 
-```{r}
-1 + 1
-```
+-	Getting set up, background for the attendees, etc
+
+###	05 - Score Network Overview (Team, Structure, Process, ISLE Website, Modules, Aims)
+
+-	Funding Source
+-	Overall goal
+-	Aims
+-	Structure (Modules/Content)
+-	Team: Flowchart
+  - Go to webpage
+
+## Users
+
+###	10 - Overview of Current SCORE Modules and GitHub repo
+
+-	GitHub Data Repo
+-	ISLE?
+-	Score site?
+
+###	15 - Example SCORE modules
+-	Work on Ironman module
+  -	Watch video together
+  -	Break into small groups and work through handout
+  -	A few things for them to consider while working on it
+	
+-	Do a second one? Break into groups based on interest
+  -	Stolen Bases (ISLE)
+  -	Marathon (ISLE)
+  -	Lacrosse: PLL vs NLL 
+  -	LoL
+  -	Soccer heights
+  -	Golf Putts
+  - softball
+
+## Discussion
+
+###	45 - Group discussion about modules; 
+
+-	brainstorm possible uses and future module topics  leads in to creator/reviewer
+
+###	60 - Briefly talk about becoming a creator/reviewer
+- SLU approach (Stat 289 and our GitHub repo/workflow)
+
+###	70 - Discussion & Next Steps
+
+- Signup sheet to be on email list for network
+-	Checkbox for interest in being a reviewer
