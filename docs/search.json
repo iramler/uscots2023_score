@@ -39,21 +39,14 @@
     "href": "index.html#score-content",
     "title": "USCOTS 2023 SCORE Breakout Session",
     "section": "SCORE Content",
-    "text": "SCORE Content\n\nScore site\nModules on ISLE\nData Github repository"
+    "text": "SCORE Content\n\nSCORE homepage\n\nAlthough sparse now, this site will contain all the information you’ll need to make use of and contribute to the SCORE Network. (Check back in later this summer!)\n\nInteractive Modules on ISLE\n\nSome examples are below.\n\nData Github repository\n\nCurates interesting datasets across a variety of sports for use in statistics and data science education. Includes:\n\nA sports question of interest, with context motivating why the dataset is relevant and interesting to explore.\nA statistics / data science topic which the dataset can be used to help teach.\nExample questions that instructors can use to help build lessons, handouts, and SCORE modules.\n\n\nSocial Media\n\nTwitter\nLinkedIn"
   },
   {
     "objectID": "index.html#example-score-modules",
     "href": "index.html#example-score-modules",
     "title": "USCOTS 2023 SCORE Breakout Session",
     "section": "Example SCORE modules",
-    "text": "Example SCORE modules\n\nIronman module\n\nIntroductory video\nBreak into small groups and work through handout\nA few things for them to consider while working on it\n\nDo a second one? Break into groups based on interest\n\nStolen Bases (ISLE)\nMarathon (ISLE)\nLacrosse: PLL vs NLL\nLeague of Legends\nPGA\nSoccer\nNCAA Div I Softball"
-  },
-  {
-    "objectID": "index.html#group-discussion-about-modules",
-    "href": "index.html#group-discussion-about-modules",
-    "title": "USCOTS 2023 SCORE Breakout Session",
-    "section": "Group discussion about modules;",
-    "text": "Group discussion about modules;\n\nbrainstorm possible uses and future module topics  leads in to creator/reviewer"
+    "text": "Example SCORE modules\n\nIronman module\n\nIntroductory video\nBreak into small groups and work through handout\nA few things to consider while working on it\n\nHow would you use this with your students?\nWhat would you modify to fit your teaching style?\n\nGroup Discussion\n\nTime permitting: Break into groups based on interest\n\nStolen Bases (ISLE): Testing for Normality\nMarathon (ISLE): Modeling random occurence (using Exponential distribution)\nLacrosse: PLL vs NLL: Difference in means\nLeague of Legends: Outlier detection\nPGA: ???\n\nNo/low tech version\nStatistical Software required\n\nSoccer: One-way ANOVA\nNCAA Div I Softball: Joining/Merging Data Tables (based on dplyr syntax)"
   },
   {
     "objectID": "index.html#joining-the-network-as-a-contributor",
