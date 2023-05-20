@@ -1,55 +1,103 @@
 ---
 title: "USCOTS 2023 SCORE Breakout Session"
+image: SCORE_Logo.png
 ---
 
-## Overview
+![](SCORE_logo.png)
 
-###	00 -  Welcome and Introductions
+<!-- 
+Time: 00
+-->
 
--	Getting set up, background for the attendees, etc
+##	Welcome
 
-###	05 - Score Network Overview (Team, Structure, Process, ISLE Website, Modules, Aims)
+- Introductions
+- Session webpage [https://iramler.github.io/uscots2023_score/](https://iramler.github.io/uscots2023_score/)
+- Useful Tech for Session
+  - Internet access
+  - Statistical Software (e.g., R, Minitab, etc.)
 
--	Funding Source
--	Overall goal
--	Aims
--	Structure (Modules/Content)
--	Team: Flowchart
-  - Go to webpage
 
-## Users
+<!-- 
+Time: 05
+-->
 
-###	10 - Overview of Current SCORE Modules and GitHub repo
 
--	GitHub Data Repo
--	ISLE?
--	Score site?
+##	Score (with Data) Network Overview
 
-###	15 - Example SCORE modules
--	Work on Ironman module
-  -	Watch video together
-  -	Break into small groups and work through handout
-  -	A few things for them to consider while working on it
+- **Goal:** Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.
+
+- **Description:** This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts  across the country to develop authentic curricular modules to introduce data science topics via sports applications.
+
+- **Funding Acknowledgement:** NSF Award #2142705. _Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science._
+
+-	**Team:** [The 2023 Roster](https://scorenetwork.org/roster.html){target="_blank"}
+
+
+<!-- 
+Time: 10
+-->
+
+
+##	SCORE Content
+
+-	Score site
+
+- Modules on ISLE
+
+- Data Github repository
+
+
+
+<!-- 
+Time: 15
+-->
+
+
+##	Example SCORE modules
+
+-	Ironman module
+    -	Introductory [video](http://myslu.stlawu.edu/~msch/SCORE/SarahTrueTriathlonModule.mp4){target="_blank"}
+      -	Break into small groups and work through [handout](https://github.com/iramler/slu_score/tree/main/triathlon_womens_ironman){target="_blank"}
+      -	A few things for them to consider while working on it
 	
 -	Do a second one? Break into groups based on interest
-  -	Stolen Bases (ISLE)
-  -	Marathon (ISLE)
-  -	Lacrosse: PLL vs NLL 
-  -	LoL
-  -	Soccer heights
-  -	Golf Putts
-  - softball
+    -	[Stolen Bases (ISLE)](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/ ){target="_blank"}
+    -	[Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}
+    -	[Lacrosse: PLL vs NLL](https://github.com/iramler/slu_score/tree/main/lacrosse_pll_vs_nll){target="_blank"}
+    -	[League of Legends](){target="_blank"}
+    -	[PGA](https://github.com/iramler/slu_score/tree/main/pga_drive_putt){target="_blank"}
 
-## Discussion
+    -	[Soccer](){target="_blank"}
+    - [NCAA Div I Softball](){target="_blank"}
 
-###	45 - Group discussion about modules; 
+<!-- 
+Time: 45
+-->
+
+
+##	Group discussion about modules; 
 
 -	brainstorm possible uses and future module topics  leads in to creator/reviewer
 
-###	60 - Briefly talk about becoming a creator/reviewer
-- SLU approach (Stat 289 and our GitHub repo/workflow)
+<!-- 
+Time: 60
+-->
 
-###	70 - Discussion & Next Steps
+
+##	Joining the Network as a contributor
+
+- Reviewer
+- Content Creator
+- Involving students
+    - SLU approach (Stat 289 and our GitHub repo/workflow)
+
+<!-- 
+Time: 70
+-->
+
+
+##	Wrap-up
 
 - Signup sheet to be on email list for network
--	Checkbox for interest in being a reviewer
+-	Check box for interest in being a reviewer
