@@ -9,7 +9,7 @@ image: SCORE_Logo.png
 Time: 00
 -->
 
-##	Welcome
+##	09:30 Welcome
 
 - Introductions
 - Session webpage [https://iramler.github.io/uscots2023_score/](https://iramler.github.io/uscots2023_score/)
@@ -23,7 +23,7 @@ Time: 05
 -->
 
 
-##	Score (with Data) Network Overview
+##	09:35 Score (with Data) Network Overview
 
 - Goal: Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.
 
@@ -39,7 +39,7 @@ Time: 10
 -->
 
 
-##	SCORE Content
+##	09:40 SCORE Content
 
 -	[SCORE homepage](https://scorenetwork.org/){target="_blank"}
     - Although sparse now, this site will contain all the information you'll need to make use of and contribute to the SCORE Network. (Check back in later this summer!)
@@ -63,7 +63,7 @@ Time: 15
 -->
 
 
-##	Example SCORE modules
+##	09:45 Example SCORE modules
 
 -	Ironman module
     -	Introductory [video](http://myslu.stlawu.edu/~msch/SCORE/SarahTrueTriathlonModule.mp4){target="_blank"}
@@ -103,7 +103,7 @@ Time: 60
 -->
 
 
-##	Joining the Network as a contributor
+##	10:30 Joining the Network as a contributor
 
 - Content Creator
     - Flowchart?
@@ -121,7 +121,7 @@ Time: 70
 -->
 
 
-##	Wrap-up
+##	10:40 Wrap-up
 
 - Signup sheet to be on email list for network
 -	Check box for interest in being a reviewer
