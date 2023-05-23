@@ -6,6 +6,11 @@ output:
   word_document: default
   html_document: default
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval = TRUE)
+```
+
 + label tables 
 
 ```{r}
@@ -58,8 +63,8 @@ A. Indicate the cases of the data set.
 ```
 
 ```{r}
-lol <- read_csv("league_of_legends/LOL_patch_12.23.csv")
-lol22.22 <- read_csv("league_of_legends/LOL_patch_12.22.csv")
+lol <- read_csv("../data/LOL_patch_12.23.csv")
+lol22.22 <- read_csv("../data/LOL_patch_12.22.csv")
 ```
 
 B. Within a few sentences, describe the distribution of the Win Rates, given the histogram below. 

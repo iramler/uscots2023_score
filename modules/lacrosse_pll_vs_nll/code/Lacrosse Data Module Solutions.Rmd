@@ -4,10 +4,14 @@ author: "Jack Cowan"
 output: pdf_document
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval = FALSE)
+```
+
 1. Use the code to load in game by game statistics for the 2021 PLL season and the 2021-2022 NLL season.
 ```{r}
-PLL_data = read.csv("./Data/PLL_data.csv")
-NLL_data = read.csv("./Data/NLL_data.csv")
+PLL_data = read.csv("./data/PLL_data.csv")
+NLL_data = read.csv("./data/NLL_data.csv")
 ```
 
 2. Using the provided data, find the average goals per game and shots per game for both the NLL and PLL.
