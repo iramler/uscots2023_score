@@ -17,13 +17,13 @@ image: SCORE_Logo.png
 
 ##	09:35 Score (with Data) Network Overview
 
-- Goal: Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.
+- **Goal:** Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.
 
-- Description: This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts  across the country to develop authentic curricular modules to introduce data science topics via sports applications.
+- **Description:** This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts  across the country to develop authentic curricular modules to introduce data science topics via sports applications.
 
-- Funding Acknowledgement: NSF Award #2142705. _Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science._
+- **Funding Acknowledgement:** NSF Award #2142705. _Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science._
 
--	Team: [The 2023 Roster](https://scorenetwork.org/roster.html){target="_blank"}
+-	**Team:** [The 2023 Roster](https://scorenetwork.org/roster.html){target="_blank"}
 
 
 
@@ -46,7 +46,7 @@ image: SCORE_Logo.png
 
 ##	09:45 Example SCORE modules
 
--	Ironman module
+-	**Ironman module**
     -	Introductory [video](http://myslu.stlawu.edu/~msch/SCORE/SarahTrueTriathlonModule.mp4){target="_blank"}
     -	Break into small groups and work through [handout](https://github.com/iramler/slu_score/tree/main/triathlon_womens_ironman){target="_blank"}
     -	A few things to consider while working on it
@@ -54,18 +54,18 @@ image: SCORE_Logo.png
         - What would you modify to fit your teaching style?
     - Regroup to discuss
 	
--	Time permitting: Break into groups based on interest
+-	Other modules:  Break into groups based on interest
     -	Interactive ISLE Based
         - [Stolen Bases (ISLE)](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/ ){target="_blank"}: Testing for Normality
         -	[Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}: Modeling random occurence (using Exponential distribution)
         
-    - Downloadable (from GitHub)
-        -	[Lacrosse: PLL vs NLL](https://github.com/iramler/slu_score/tree/main/lacrosse_pll_vs_nll){target="_blank"}: Difference in means
-        -	[League of Legends](https://github.com/iramler/slu_score/tree/main/league_of_legends){target="_blank"}: Outlier detection
-        -	[PGA](https://github.com/iramler/slu_score/tree/main/pga_drive_putt){target="_blank"}: Correlations
+    - Downloadable (from GitHub) partial modules
+        -	[Lacrosse: PLL vs NLL](https://github.com/iramler/uscots2023_score/tree/master/modules/lacrosse_pll_vs_nll){target="_blank"}: Difference in means
+        -	[League of Legends](https://github.com/iramler/uscots2023_score/tree/master/modules/league_of_legends){target="_blank"}: Outlier detection
+        -	[PGA](https://github.com/iramler/uscots2023_score/tree/master/modules/pga_drive_putt){target="_blank"}: Correlations
             - No/low tech version
             - Statistical Software required (e.g., Minitab, SPSS, R, etc.)
-        - [NCAA Div I Softball](https://github.com/iramler/slu_score/tree/main/softball_div1){target="_blank"}: Joining/Merging Data Tables
+        - [NCAA Div I Softball](https://github.com/iramler/uscots2023_score/tree/master/modules/softball_div1){target="_blank"}: Joining/Merging Data Tables
             - dplyr based ("Using R" or "sketch by hand")
             - SQL (sqlite or duckdb)
 
