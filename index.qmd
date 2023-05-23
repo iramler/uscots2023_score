@@ -3,7 +3,7 @@ title: "USCOTS 2023 SCORE Breakout Session"
 image: SCORE_Logo.png
 ---
 
-![](SCORE_logo.png)
+![](SCORE_logo.png){fig-alt="SCORE network logo" width=50%}
 
 ##	09:30 Welcome
 
