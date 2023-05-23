@@ -14,6 +14,13 @@
     "text": "Session Details\nFriday 9:30 – 10:45 AM"
   },
   {
+    "objectID": "about.html#presenters",
+    "href": "about.html#presenters",
+    "title": "About",
+    "section": "Presenters",
+    "text": "Presenters\nIvan Ramler, Michael Schuckers, and Robin Lock St. Lawrence University"
+  },
+  {
     "objectID": "about.html#session-description",
     "href": "about.html#session-description",
     "title": "About",
@@ -39,21 +46,21 @@
     "href": "index.html#score-content",
     "title": "USCOTS 2023 SCORE Breakout Session",
     "section": "09:40 SCORE Content",
-    "text": "09:40 SCORE Content\n\nSCORE homepage\n\nAlthough sparse now, this site will contain all the information you’ll need to make use of and contribute to the SCORE Network. (Check back in later this summer!)\n\nInteractive Modules on ISLE\n\nSome examples are below.\n\nData Github repository\n\nCurates interesting datasets across a variety of sports for use in statistics and data science education. Includes:\n\nA sports question of interest, with context motivating why the dataset is relevant and interesting to explore.\nA statistics / data science topic which the dataset can be used to help teach.\nExample questions that instructors can use to help build lessons, handouts, and SCORE modules.\n\n\nSocial Media\n\nTwitter\nLinkedIn"
+    "text": "09:40 SCORE Content\n\nSCORE homepage\n\nMain page to get access to modules, submit your own, and contact the team.\n\nInteractive Modules on ISLE\n\nWe’ll also see some specific examples later.\n\nData Github repository\n\nCurates interesting datasets across a variety of sports for use in statistics and data science education. Includes:\n\nSocial Media\n\nTwitter\nLinkedIn"
   },
   {
     "objectID": "index.html#example-score-modules",
     "href": "index.html#example-score-modules",
     "title": "USCOTS 2023 SCORE Breakout Session",
     "section": "09:45 Example SCORE modules",
-    "text": "09:45 Example SCORE modules\n\nIronman module\n\nIntroductory video\nBreak into small groups and work through handout\nA few things to consider while working on it\n\nHow would you use this with your students?\nWhat would you modify to fit your teaching style?\n\nGroup Discussion\n\nTime permitting: Break into groups based on interest\n\nStolen Bases (ISLE): Testing for Normality\nMarathon (ISLE): Modeling random occurence (using Exponential distribution)\nLacrosse: PLL vs NLL: Difference in means\nLeague of Legends: Outlier detection\nPGA: ???\n\nNo/low tech version\nStatistical Software required\n\nSoccer: One-way ANOVA\nNCAA Div I Softball: Joining/Merging Data Tables (based on dplyr syntax)"
+    "text": "09:45 Example SCORE modules\n\nIronman module\n\nIntroductory video\nBreak into small groups and work through handout\nA few things to consider while working on it\n\nHow would you use this with your students?\nWhat would you modify to fit your teaching style?\n\nRegroup to discuss\n\nTime permitting: Break into groups based on interest\n\nInteractive ISLE Based\n\nStolen Bases (ISLE): Testing for Normality\nMarathon (ISLE): Modeling random occurence (using Exponential distribution)\n\nDownloadable (from GitHub)\n\nLacrosse: PLL vs NLL: Difference in means\nLeague of Legends: Outlier detection\nPGA: Correlations\n\nNo/low tech version\nStatistical Software required (e.g., Minitab, SPSS, R, etc.)\n\nNCAA Div I Softball: Joining/Merging Data Tables\n\ndplyr based (“Using R” or “sketch by hand”)\nSQL (sqlite or duckdb)"
   },
   {
     "objectID": "index.html#joining-the-network-as-a-contributor",
     "href": "index.html#joining-the-network-as-a-contributor",
     "title": "USCOTS 2023 SCORE Breakout Session",
     "section": "10:30 Joining the Network as a contributor",
-    "text": "10:30 Joining the Network as a contributor\n\nContent Creator\n\nFlowchart?\nhandbook?\n\nReviewer\n\nhandbook?\n\nInvolving students\n\nSt. Lawrence University approach\n\n0.25 unit (1 credit) Course (approximately 2 - 4 students per faculty member)\nUse GitHub to store “in progress” modules until they are ready to be submitted to the SCORE Data repo.\nSummer research students to polish existing and create new content."
+    "text": "10:30 Joining the Network as a contributor\n\nContent Creator and/or Reviewer\n\nSubmitting a module\nReview Process \n\n\n\n\n\n\n\n\n\nCoaches are members of the SCORE Network who have extensive experience developing and review modules and can shephard creators through the process of going from ideal to module.\n\n\n\n\n\nInvolving students\n\nSt. Lawrence University approach\n\n0.25 unit course: approximately 2 - 4 students per faculty member, 1 - 2 hour load per week (for students)\nUse GitHub to store “in progress” (but usable) modules until they are ready to be submitted.\nSummer research students to polish existing and create new content."
   },
   {
     "objectID": "index.html#wrap-up",

@@ -5,10 +5,6 @@ image: SCORE_Logo.png
 
 ![](SCORE_logo.png)
 
-<!-- 
-Time: 00
--->
-
 ##	09:30 Welcome
 
 - Introductions
@@ -17,10 +13,6 @@ Time: 00
   - Internet access
   - Statistical Software (e.g., R, Minitab, etc.)
 
-
-<!-- 
-Time: 05
--->
 
 
 ##	09:35 Score (with Data) Network Overview
@@ -34,33 +26,22 @@ Time: 05
 -	Team: [The 2023 Roster](https://scorenetwork.org/roster.html){target="_blank"}
 
 
-<!-- 
-Time: 10
--->
-
 
 ##	09:40 SCORE Content
 
 -	[SCORE homepage](https://scorenetwork.org/){target="_blank"}
-    - Although sparse now, this site will contain all the information you'll need to make use of and contribute to the SCORE Network. (Check back in later this summer!)
+    - Main page to get access to modules, submit your own, and contact the team.
 
-- [Interactive Modules on ISLE](https://www.stat.cmu.edu/isle/){target="_blank"}
-    - Some examples are below.
+- [Interactive Modules on ISLE](https://isle.stat.cmu.edu/dashboard/lessons){target="_blank"}
+    - We'll also see some specific examples later.
 
 - [Data Github repository](https://data.scorenetwork.org/){target="_blank"}
     - Curates interesting datasets across a variety of sports for use in statistics and data science education. Includes: 
-        - A sports question of interest, with context motivating why the dataset is relevant and interesting to explore.
-        - A statistics / data science topic which the dataset can be used to help teach.
-        - Example questions that instructors can use to help build lessons, handouts, and SCORE modules.
 
 - Social Media
     - [Twitter](https://twitter.com/scorenetworkorg){target="_blank"}
     - [LinkedIn](https://www.linkedin.com/company/scorenetworkorg){target="_blank"}
 
-
-<!-- 
-Time: 15
--->
 
 
 ##	09:45 Example SCORE modules
@@ -71,54 +52,42 @@ Time: 15
     -	A few things to consider while working on it
         - How would you use this with your students?
         - What would you modify to fit your teaching style?
-    - Group Discussion
+    - Regroup to discuss
 	
 -	Time permitting: Break into groups based on interest
-    -	[Stolen Bases (ISLE)](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/ ){target="_blank"}: Testing for Normality
-    -	[Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}: Modeling random occurence (using Exponential distribution)
-    -	[Lacrosse: PLL vs NLL](https://github.com/iramler/slu_score/tree/main/lacrosse_pll_vs_nll){target="_blank"}: Difference in means
-    -	[League of Legends](){target="_blank"}: Outlier detection
-    -	[PGA](https://github.com/iramler/slu_score/tree/main/pga_drive_putt){target="_blank"}: ???
-        - No/low tech version
-        - Statistical Software required
-
-    -	[Soccer](){target="_blank"}: One-way ANOVA
-    - [NCAA Div I Softball](){target="_blank"}: Joining/Merging Data Tables (based on dplyr syntax)
-
-<!-- 
-Time: 45
--->
-
-
-<!--
-
-##	Group discussion about modules; 
-
--	brainstorm possible uses and future module topics  leads in to creator/reviewer
-
--->
-
-<!-- 
-Time: 60
--->
-
+    -	Interactive ISLE Based
+        - [Stolen Bases (ISLE)](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/ ){target="_blank"}: Testing for Normality
+        -	[Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}: Modeling random occurence (using Exponential distribution)
+        
+    - Downloadable (from GitHub)
+        -	[Lacrosse: PLL vs NLL](https://github.com/iramler/slu_score/tree/main/lacrosse_pll_vs_nll){target="_blank"}: Difference in means
+        -	[League of Legends](https://github.com/iramler/slu_score/tree/main/league_of_legends){target="_blank"}: Outlier detection
+        -	[PGA](https://github.com/iramler/slu_score/tree/main/pga_drive_putt){target="_blank"}: Correlations
+            - No/low tech version
+            - Statistical Software required (e.g., Minitab, SPSS, R, etc.)
+        - [NCAA Div I Softball](https://github.com/iramler/slu_score/tree/main/softball_div1){target="_blank"}: Joining/Merging Data Tables
+            - dplyr based ("Using R" or "sketch by hand")
+            - SQL (sqlite or duckdb)
 
 ##	10:30 Joining the Network as a contributor
 
-- Content Creator
-    - Flowchart?
-    - handbook?
-- Reviewer
-    - handbook?
+- Content Creator and/or Reviewer
+    - [Submitting a module](https://scorenetwork.org/submissions.html){target="_blank"}
+    - Review Process
+![](FlowChartReviewProcess)
+
+::: {.callout-note appearance="simple"}
+
+- **Coaches** are members of the SCORE Network who have extensive experience developing and review modules and can shephard creators through the process of going from ideal to module.
+    
+:::
+
+
 - Involving students
     - St. Lawrence University approach
-        - 0.25 unit (1 credit) Course (approximately 2 - 4 students per faculty member)
-        - Use [GitHub](https://github.com/iramler/slu_score){target="_blank"} to store "in progress" modules until they are ready to be submitted to the SCORE Data repo.
+        - 0.25 unit course: approximately 2 - 4 students per faculty member, 1 - 2 hour load per week (for students)
+        - Use [GitHub](https://github.com/iramler/slu_score){target="_blank"} to store "in progress" (but usable) modules until they are ready to be submitted.
         - Summer research students to polish existing and create new content.
-
-<!-- 
-Time: 70
--->
 
 
 ##	10:40 Wrap-up
