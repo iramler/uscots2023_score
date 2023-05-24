@@ -47,7 +47,21 @@ image: SCORE_Logo.png
 ##	09:45 Example SCORE modules
 
 - Module Overview
-    - Insert Robin's description here
+    - Required Elements
+        * Motivating sports question(s)
+        * Data (with documentation)
+        * Statistics/Data Science learning goals 
+        * Methods/topics needed to address the question(s) 
+        * Activities/Exercises/Assessments
+        * Wrap-up
+    - Optional Elements
+        * Motivating video
+        * ISLE activity
+        * Sample (editable) activity handouts
+        * Background material on stat/data science topics
+        * Sample assessment items
+        * Instructor notes and/or solutions
+
 
 -	**Ironman module**
     -	Module is [available on ISLE](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/){target="_blank"}
