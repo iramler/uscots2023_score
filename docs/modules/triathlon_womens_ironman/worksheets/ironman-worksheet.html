@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Michael Schuckers and Matthew Abel">
+<meta name="author" content="SLU Crew">
 
 <title>uscots2023_score - Triathlon Data Correlation Module</title>
 <style>
@@ -24,22 +24,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -61,7 +61,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../../styles.css">
+<link rel="stylesheet" href="../../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">uscots2023_score</span>
     </a>
   </div>
@@ -81,11 +81,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html">
+    <a class="nav-link" href="../../../index.html">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html">
+    <a class="nav-link" href="../../../about.html">
  <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -116,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Author</div>
     <div class="quarto-title-meta-contents">
-             <p>Michael Schuckers and Matthew Abel </p>
+             <p>SLU Crew </p>
           </div>
   </div>
     
@@ -127,23 +127,31 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<p>The dataset <code>ironman1819.csv</code> contains data on female finishers of the Lake Placid Ironman Triathlon from 2002 to 2021. The motivation for this data analysis is to explore the relationships between swim times, bike times, and run times (in minutes) in order to gain insights into the performance patterns of the athletes. By analyzing these relationships, we can understand the interplay between different segments of the race and potentially identify areas of improvement for athletes. For this activity, we will specifically focus on times from finishers in the years 2018 and 2019.</p>
 <ol type="1">
-<li><p>Watch the <a href="http://myslu.stlawu.edu/~msch/SCORE/SarahTrueTriathlonModule.mp4" target="_blank">introductory video</a> for the module.</p></li>
-<li><p>Open the dataset <code>LakePlacidTriFinisherData.csv</code>. As Sarah True mentioned, these data are from female finishers of the Lake Placid Ironman Triathlon from 2002 to 2021. We will be focused on the relationships between swim times, bike times and run times. Each of these times are in minutes.</p></li>
-<li><p>In words, how strong do you expect the relationships to be between each of these pairs of times?</p></li>
-<li><p>Make a histogram and describe the distribution for each of these times</p>
+<li><p>Watch the <a href="https://www.youtube.com/watch?v=zYG2qdJRolM" target="_blank">introductory video</a> for the module.</p></li>
+<li><p>Graph and describe the distribution for each leg of the Triathlon</p></li>
+</ol>
 <ol type="a">
-<li>Swim times</li>
-<li>Bike times</li>
-<li>Run times</li>
-</ol></li>
-<li><p>Graph the relationship between swim times and bike times. From this graph, is it appropriate to calculate the correlation from these data? If so, estimate the correlation from the graph, then calculate the correlation and compare it to your estimate. If not, briefly explain why not.</p></li>
-<li><p>Graph the relationship between bike times and run times. From this graph, is it appropriate to calculate the correlation from these data? If so, estimate the correlation from the graph, then calculate the correlation and compare it to your estimate. If not, briefly explain why not.</p></li>
-<li><p>Graph the relationship between swim times and run times. From this graph, is it appropriate to calculate the correlation from these data? If so, estimate the correlation from the graph, then calculate the correlation and compare it to your estimate. If not, briefly explain why not.</p></li>
-<li><p>Which relationship has the strongest correlation? Why might that be?</p></li>
+<li>Swim Times</li>
+<li>Bike Times</li>
+<li>Run Times</li>
+</ol>
+<ol start="3" type="1">
+<li>Graph the following relationships between the legs of the race.</li>
+</ol>
+<ol type="a">
+<li>Swim Times vs.&nbsp;Bike Times</li>
+<li>Run Times vs.&nbsp;Bike Times</li>
+<li>Swim Times vs.&nbsp;Run Times</li>
+</ol>
+<ol start="4" type="1">
+<li><p>From Question 3, is a correlation an appropriate calculation for these data? If so, guess the correlation between the two legs of the race</p></li>
+<li><p>Now, using technology, calculate the correlations and compare them to your guesses</p></li>
+<li><p>Which relationship has the largest correlation? What is a possible reason why we may see this?</p></li>
+<li><p>Which relationship has the smallest correlation? What is a possible reason why we may see this?</p></li>
 <li><p>These data are for finishers of the triathlon. How might these relationships be different for athletes that did not finish or were disqualified?</p></li>
-<li><p>What do you think is the causal mechanism for these correlations?</p></li>
-<li><p>What do these correlations suggest for athletes about what aspects of their race they may want to concentrate on?</p></li>
+<li><p>What do these correlations suggest for athletes about the aspects of their race they want to concentrate on?</p></li>
 </ol>
 
 

@@ -1,31 +1,39 @@
 ---
 title: "Triathlon Data Correlation Module"
-author: "Michael Schuckers and Matthew Abel"
+author: "SLU Crew"
 format: html
 ---
 
-1.  Watch the [introductory video](http://myslu.stlawu.edu/~msch/SCORE/SarahTrueTriathlonModule.mp4){target="_blank"} for the module.
+The dataset `ironman1819.csv` contains data on female finishers of the Lake Placid Ironman Triathlon from 2002 to 2021. The motivation for this data analysis is to explore the relationships between swim times, bike times, and run times (in minutes) in order to gain insights into the performance patterns of the athletes. By analyzing these relationships, we can understand the interplay between different segments of the race and potentially identify areas of improvement for athletes.  For this activity, we will specifically focus on times from finishers in the years 2018 and 2019.
 
-2.  Open the dataset `LakePlacidTriFinisherData.csv`. As Sarah True mentioned, these data are from female finishers of the Lake Placid Ironman Triathlon from 2002 to 2021. We will be focused on the relationships between swim times, bike times and run times. Each of these times are in minutes.
+1.  Watch the [introductory video](https://www.youtube.com/watch?v=zYG2qdJRolM){target="_blank"} for the module.
 
-3.  In words, how strong do you expect the relationships to be between each of these pairs of times?
 
-4.  Make a histogram and describe the distribution for each of these times
+2.	Graph and describe the distribution for each leg of the Triathlon
+a.	Swim Times
+b.	Bike Times
+c.	Run Times
 
-    a.  Swim times
-    b.  Bike times
-    c.  Run times
 
-5.  Graph the relationship between swim times and bike times. From this graph, is it appropriate to calculate the correlation from these data? If so, estimate the correlation from the graph, then calculate the correlation and compare it to your estimate. If not, briefly explain why not.
+3.	Graph the following relationships between the legs of the race.
+a.	Swim Times vs. Bike Times
+b.	Run Times vs. Bike Times
+c.	Swim Times vs. Run Times
 
-6.  Graph the relationship between bike times and run times. From this graph, is it appropriate to calculate the correlation from these data? If so, estimate the correlation from the graph, then calculate the correlation and compare it to your estimate. If not, briefly explain why not.
 
-7.  Graph the relationship between swim times and run times. From this graph, is it appropriate to calculate the correlation from these data? If so, estimate the correlation from the graph, then calculate the correlation and compare it to your estimate. If not, briefly explain why not.
+4.	From Question 3, is a correlation an appropriate calculation for these data? If so, guess the correlation between the two legs of the race
 
-8.  Which relationship has the strongest correlation? Why might that be?
 
-9.  These data are for finishers of the triathlon. How might these relationships be different for athletes that did not finish or were disqualified?
+5.	 Now, using technology, calculate the correlations and compare them to your guesses
 
-10. What do you think is the causal mechanism for these correlations?
 
-11. What do these correlations suggest for athletes about what aspects of their race they may want to concentrate on?
+6.	Which relationship has the largest correlation? What is a possible reason why we may see this?
+
+
+7.	Which relationship has the smallest correlation? What is a possible reason why we may see this?
+
+
+8.	These data are for finishers of the triathlon.  How might these relationships be different for athletes that did not finish or were disqualified? 
+
+
+9.	What do these correlations suggest for athletes about the aspects of their race they want to concentrate on?  

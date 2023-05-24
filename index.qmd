@@ -17,9 +17,9 @@ image: SCORE_Logo.png
 
 ##	09:35 Score (with Data) Network Overview
 
-- **Goal:** Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science.
+- **Goal:** Create a national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science and statistics.
 
-- **Description:** This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts  across the country to develop authentic curricular modules to introduce data science topics via sports applications.
+- **Description:** This four-year collaborative effort will create a network of educators and 50+ partners from sports teams and industry experts  across the country to develop authentic curricular modules to introduce data science and statistics topics via sports applications.
 
 - **Funding Acknowledgement:** NSF Award #2142705. _Building a sustainable national network for developing and disseminating Sports Content for Outreach, Research, and Education in data science._
 
@@ -46,9 +46,13 @@ image: SCORE_Logo.png
 
 ##	09:45 Example SCORE modules
 
+- Module Overview
+    - Insert Robin's description here
+
 -	**Ironman module**
-    -	Introductory [video](http://myslu.stlawu.edu/~msch/SCORE/SarahTrueTriathlonModule.mp4){target="_blank"}
-    -	Break into small groups and work through [handout](https://github.com/iramler/uscots2023_score/tree/master/modules/triathlon_womens_ironman){target="_blank"}
+    -	Module is [available on ISLE](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/){target="_blank"}
+    - Documents are also [available on GitHub](https://github.com/iramler/uscots2023_score/tree/master/modules/triathlon_womens_ironman){target="_blank"}
+    -	Break into small groups and work through handout
     -	A few things to consider while working on it
         - How would you use this with your students?
         - What would you modify to fit your teaching style?
