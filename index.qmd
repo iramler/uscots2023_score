@@ -26,22 +26,14 @@ image: SCORE_Logo.png
 -	**Team:** [The 2023 Roster](https://scorenetwork.org/roster.html){target="_blank"}
 
 
-
-##	09:40 SCORE Content
-
 -	[SCORE homepage](https://scorenetwork.org/){target="_blank"}
     - Main page to get access to modules, submit your own, and contact the team.
-
-- [Interactive Modules on ISLE](https://isle.stat.cmu.edu/dashboard/lessons){target="_blank"}
-    - We'll also see some specific examples later.
-
-- [Data Github repository](https://data.scorenetwork.org/){target="_blank"}
-    - Curates interesting datasets across a variety of sports for use in statistics and data science education. Includes: 
+    - [Data Github repository](https://data.scorenetwork.org/){target="_blank"}
+        - Curates interesting datasets across a variety of sports for use in statistics and data science education. Includes: 
 
 - Social Media
     - [Twitter](https://twitter.com/scorenetworkorg){target="_blank"}
     - [LinkedIn](https://www.linkedin.com/company/scorenetworkorg){target="_blank"}
-
 
 
 ##	09:45 Example SCORE modules
@@ -62,6 +54,7 @@ image: SCORE_Logo.png
         * Sample assessment items
         * Instructor notes and/or solutions
 
+- Details available in the [Module Author Handbook](https://www.youtube.com/watch?v=dQw4w9WgXcQ){target="_blank"}
 
 -	**Ironman module**
     -	Module is [available on ISLE](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/){target="_blank"}
@@ -69,7 +62,9 @@ image: SCORE_Logo.png
     -	Break into small groups and work through handout
     -	A few things to consider while working on it
         - How would you use this with your students?
+        - What other info would you like as part of the module?
         - What would you modify to fit your teaching style?
+        
     - Regroup to discuss
 	
 -	Other modules:  Break into groups based on interest
@@ -77,22 +72,22 @@ image: SCORE_Logo.png
         - [Stolen Bases (ISLE)](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/ ){target="_blank"}: Testing for Normality
         -	[Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}: Modeling random occurence (using Exponential distribution)
         
-    - Downloadable (from GitHub) partial modules
+    - In-progress modules
         -	[Lacrosse: PLL vs NLL](https://github.com/iramler/uscots2023_score/tree/master/modules/lacrosse_pll_vs_nll){target="_blank"}: Difference in means
         -	[League of Legends](https://github.com/iramler/uscots2023_score/tree/master/modules/league_of_legends){target="_blank"}: Outlier detection
-        -	[PGA](https://github.com/iramler/uscots2023_score/tree/master/modules/pga_drive_putt){target="_blank"}: Correlations
+        -	[PGA](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt){target="_blank"}: Correlations
             - No/low tech version
             - Statistical Software required (e.g., Minitab, SPSS, R, etc.)
         - [NCAA Div I Softball](https://github.com/iramler/uscots2023_score/tree/master/modules/softball_div1){target="_blank"}: Joining/Merging Data Tables
-            - dplyr based ("Using R" or "sketch by hand")
-            - SQL (sqlite or duckdb)
+            - dplyr based (tech - "Using R" or low tech - "sketch by hand")
+            - SQL (sqlite or duckdb) also available
 
 ##	10:30 Joining the Network as a contributor
 
 - Content Creator and/or Reviewer
-    - [Submitting a module](https://scorenetwork.org/submissions.html){target="_blank"}
+    - [Submitting a module or idea for a module](https://scorenetwork.org/submissions.html){target="_blank"}
     - Review Process
-![](FlowChartReviewProcess)
+![](module_idea_flowchart)
 
 ::: {.callout-note appearance="simple"}
 
