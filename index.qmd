@@ -3,7 +3,7 @@ title: "USCOTS 2023 SCORE Breakout Session"
 image: SCORE_Logo.png
 ---
 
-![](SCORE_logo.png){fig-alt="SCORE network logo" width=50%}
+![](SCORE_logo_banner.png){fig-alt="SCORE network logo" width=50%}
 
 ##	09:30 Welcome
 
@@ -58,7 +58,6 @@ image: SCORE_Logo.png
 
 -	**Ironman module**
     -	Module is [available on ISLE](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/){target="_blank"}
-    - Documents are also [available on GitHub](https://github.com/iramler/uscots2023_score/tree/master/modules/triathlon_womens_ironman){target="_blank"}
     -	Break into small groups and work through handout
     -	A few things to consider while working on it
         - How would you use this with your students?
@@ -70,15 +69,16 @@ image: SCORE_Logo.png
 -	Other modules:  Break into groups based on interest
     -	Interactive ISLE Based
         - [Stolen Bases (ISLE)](https://isle.stat.cmu.edu/SCORE/stolen-bases-module/ ){target="_blank"}: Testing for Normality
-        -	[Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}: Modeling random occurence (using Exponential distribution)
+        -	[Marathon (ISLE)](https://isle.stat.cmu.edu/SCORE/marathons/){target="_blank"}: Modeling random occurrence (using Exponential distribution)
+        - [Unbreakable Records in Baseball](https://isle.stat.cmu.edu/SCORE/Unbreakable_Records_Baseball_Hits){target="_blank"}: Bernoulli trial, Binomial Experiments, and Chi-Square tests 
         
     - In-progress modules
-        -	[Lacrosse: PLL vs NLL](https://github.com/iramler/uscots2023_score/tree/master/modules/lacrosse_pll_vs_nll){target="_blank"}: Difference in means
-        -	[League of Legends](https://github.com/iramler/uscots2023_score/tree/master/modules/league_of_legends){target="_blank"}: Outlier detection
+        -	[Lacrosse: PLL vs NLL](https://isle.stat.cmu.edu/SCORE/lacrosse_nll_vs_pll){target="_blank"}: Difference in means
+        -	[League of Legends](https://isle.stat.cmu.edu/SCORE/league_of_legends/){target="_blank"}: Outlier detection
         -	[PGA](https://isle.stat.cmu.edu/SCORE/PGA_drive_putt){target="_blank"}: Correlations
             - No/low tech version
             - Statistical Software required (e.g., Minitab, SPSS, R, etc.)
-        - [NCAA Div I Softball](https://github.com/iramler/uscots2023_score/tree/master/modules/softball_div1){target="_blank"}: Joining/Merging Data Tables
+        - [NCAA Div I Softball](https://isle.stat.cmu.edu/SCORE/softball_merging_tables){target="_blank"}: Joining/Merging Data Tables
             - dplyr based (tech - "Using R" or low tech - "sketch by hand")
             - SQL (sqlite or duckdb) also available
 
@@ -87,7 +87,7 @@ image: SCORE_Logo.png
 - Content Creator and/or Reviewer
     - [Submitting a module or idea for a module](https://scorenetwork.org/submissions.html){target="_blank"}
     - Review Process
-![](module_idea_flowchart)
+![](module_idea_flowchart.jpg)
 
 ::: {.callout-note appearance="simple"}
 
