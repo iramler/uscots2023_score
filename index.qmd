@@ -54,7 +54,7 @@ image: SCORE_Logo.png
         * Sample assessment items
         * Instructor notes and/or solutions
 
-- Details available in the [Module Author Handbook](https://www.youtube.com/watch?v=dQw4w9WgXcQ){target="_blank"}
+- Details available in the [Module Author Handbook](https://scorenetwork.org/submissions.html){target="_blank"}
 
 -	**Ironman module**
     -	Module is [available on ISLE](https://isle.stat.cmu.edu/SCORE/ironman_triathlon/){target="_blank"}
