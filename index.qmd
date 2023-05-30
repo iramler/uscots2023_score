@@ -104,6 +104,6 @@ image: SCORE_Logo.png
 
 
 ##	10:40 Wrap-up
-
+- [Birds of a Feather](https://www.causeweb.org/cause/uscots/uscots23/sat-14-sports-data){target="_blank"}: Saturday, 12:00 pm - 1:00 pm (hosted by Robin Lock)
 - Signup sheet to be on email list for network
 -	Check box for interest in being a reviewer
