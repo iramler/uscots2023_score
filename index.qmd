@@ -109,5 +109,8 @@ image: SCORE_Logo.png
     - [Mathfest](https://web.cvent.com/event/6ee04f0b-0da3-45ee-b9d6-61cd14e1e5d0/summary){target="_blank"}
     - [JSM](https://ww2.aievolution.com/JSMAnnual/index.cfm?do=ev.viewEv&ev=2313){target="_blank"}
 
-- Signup sheet to be on email list for network
--	Check box for interest in being a reviewer
+- [Signup sheet to be on email list for network](https://docs.google.com/forms/d/e/1FAIpQLSfreQ3G8Pw2MP5brhFHGg8gzbVlaqQepFxR7ToARrsRBGSB2w/viewform?usp=sf_link){target="_blank"}
+
+![](signup_link.png)
+
+
